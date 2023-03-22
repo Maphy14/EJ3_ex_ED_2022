@@ -1,6 +1,7 @@
 # Welcome to Astromnl Blog Template
 
 A simple blog built using [Astro](https://astro.build)
+Let's go!
 
 ![screenshot](astromnl.png)
 
